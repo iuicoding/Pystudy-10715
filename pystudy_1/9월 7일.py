@@ -67,3 +67,5 @@ class Student:
         print(self.이름, self.나이)
 
 student = Student("신재용", 3)
+
+import.math
